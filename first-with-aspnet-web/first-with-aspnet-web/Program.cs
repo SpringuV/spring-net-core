@@ -1,12 +1,18 @@
 ﻿// Tạo một builder để cấu hình ứng dụng web
 // Builder này chứa tất cả các cài đặt và dịch vụ cần thiết
+
+using first_with_aspnet_web;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Thêm các dịch vụ Controllers và Views vào ứng dụng
 // Điều này cho phép sử dụng mô hình MVC (Model-View-Controller)
 builder.Services.AddControllersWithViews();
-
+// add transient sẽ tạo ra một instance mới mỗi khi được yêu cầu
+// add scoped sẽ tạo ra một instance mới cho mỗi request khác nhau
+// add singleton sẽ tạo ra một instance duy nhất cho toàn bộ ứng dụng
+builder.Services.AddSingleton<IRepository>(service => new MyRepository(service.GetRequiredService<ILogger<MyRepository>>()));
 // Xây dựng ứng dụng web từ builder đã cấu hình
 var app = builder.Build();
 

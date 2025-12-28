@@ -7,20 +7,27 @@ namespace first_with_aspnet_web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IRepository repository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IRepository repository,ILogger<HomeController> logger)
         {
+            this.repository = repository;
             _logger = logger;
         }
 
         public IActionResult Index()
         {
-            return View();
+            return View(new HelloModel() { Name = "Spring Vu" });
         }
 
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        public IActionResult NewActionMethod(string name)
+        {
+            return Content("i am testing program New Action Method" + repository.GetById(name));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

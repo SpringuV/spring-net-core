@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|e:\\data-program\\cntt\\project compile\\asp.net\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCDCBE72-EBC0-411A-9ECC-E5E83C2DB370}|first-with-aspnet-web\\first-with-aspnet-web.csproj|solutionrelative:first-with-aspnet-web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "first-with-aspnet-web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T02:29:15.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloModel.cs",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Models\\HelloModel.cs",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\Models\\HelloModel.cs",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Models\\HelloModel.cs",
+              "RelativeToolTip": "first-with-aspnet-web\\Models\\HelloModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:27:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRepository.cs",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\MyRepository.cs",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\MyRepository.cs",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\MyRepository.cs",
+              "RelativeToolTip": "first-with-aspnet-web\\MyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:21:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\IRepository.cs",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\IRepository.cs",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\IRepository.cs",
+              "RelativeToolTip": "first-with-aspnet-web\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:20:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "first-with-aspnet-web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T02:09:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "first-with-aspnet-web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:08:45.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Program.cs",
+              "RelativeDocumentMoniker": "first-with-aspnet-web\\Program.cs",
+              "ToolTip": "E:\\data-program\\CNTT\\Project Compile\\ASP.NET\\spring-net-core\\first-with-aspnet-web\\first-with-aspnet-web\\Program.cs",
+              "RelativeToolTip": "first-with-aspnet-web\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:07:16.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
