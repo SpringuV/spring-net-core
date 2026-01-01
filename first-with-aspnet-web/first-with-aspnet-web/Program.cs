@@ -9,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Thêm các dịch vụ Controllers và Views vào ứng dụng
 // Điều này cho phép sử dụng mô hình MVC (Model-View-Controller)
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSingleton<IUserRepository>(services => new InMemoryUserRepo());
+
 // add transient sẽ tạo ra một instance mới mỗi khi được yêu cầu
 // add scoped sẽ tạo ra một instance mới cho mỗi request khác nhau
 // add singleton sẽ tạo ra một instance duy nhất cho toàn bộ ứng dụng
@@ -22,9 +25,8 @@ var app = builder.Build();
 // Kiểm tra xem ứng dụng có đang chạy ở môi trường Development (phát triển) không
 if (!app.Environment.IsDevelopment())
 {
-    // Nếu KHÔNG phải môi trường Development (tức là Production - sản xuất)
-    // Sử dụng trang xử lý lỗi tùy chỉnh tại "/Home/Error"
-    // Trang này sẽ hiển thị khi có lỗi xảy ra trong ứng dụng
+    // Nếu KHÔNG phải môi trường Development (tức Production)
+    // Sử dụng trang xử lý lỗi tùy chỉnh tại "/Home/Error", hiển thị khi có lỗi xảy ra trong ứng dụng
     app.UseExceptionHandler("/Home/Error");
 
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
@@ -35,7 +37,6 @@ if (!app.Environment.IsDevelopment())
 }
 
 // Tự động chuyển hướng các request HTTP sang HTTPS
-// Ví dụ: http://example.com -> https://example.com
 app.UseHttpsRedirection();
 
 // Cho phép ứng dụng phục vụ các file tĩnh
@@ -54,7 +55,7 @@ app.UseAuthorization();
 // Pattern: {controller=Home}/{action=Index}/{id?}
 // - controller=Home: Controller mặc định là HomeController
 // - action=Index: Action mặc định là Index
-// - id?: Tham số id là tùy chọn (dấu ? nghĩa là optional)
+// - id?: Tham số id là tùy chọn (dấu ? là optional)
 // Ví dụ: "/Home/Index", "/Products/Details/5", hoặc chỉ "/"
 app.MapControllerRoute(
     name: "default",

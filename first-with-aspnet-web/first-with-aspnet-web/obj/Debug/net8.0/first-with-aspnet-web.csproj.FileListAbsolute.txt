@@ -1,35 +1,68 @@
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\appsettings.Development.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\appsettings.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.staticwebassets.runtime.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.staticwebassets.endpoints.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.exe
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.deps.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.runtimeconfig.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.dll
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\bin\Debug\net8.0\first-with-aspnet-web.pdb
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\rpswa.dswa.cache.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.GeneratedMSBuildEditorConfig.editorconfig
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.AssemblyInfoInputs.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.AssemblyInfo.cs
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.csproj.CoreCompileInputs.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.MvcApplicationPartsAssemblyInfo.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.RazorAssemblyInfo.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.RazorAssemblyInfo.cs
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.sourcelink.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\rjimswa.dswa.cache.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\scopedcss\bundle\first-with-aspnet-web.styles.css
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\scopedcss\projectbundle\first-with-aspnet-web.bundle.scp.css
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\staticwebassets.build.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\staticwebassets.build.json.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\staticwebassets.development.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\swae.build.ex.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.dll
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\refint\first-with-aspnet-web.dll
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.pdb
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\first-with-aspnet-web.genruntimeconfig.cache
-E:\data-program\CNTT\Project Compile\ASP.NET\spring-net-core\first-with-aspnet-web\first-with-aspnet-web\obj\Debug\net8.0\ref\first-with-aspnet-web.dll
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/appsettings.Development.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/appsettings.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.staticwebassets.runtime.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.staticwebassets.endpoints.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.exe
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.deps.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.runtimeconfig.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.dll
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.pdb
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rpswa.dswa.cache.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.GeneratedMSBuildEditorConfig.editorconfig
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.AssemblyInfoInputs.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.AssemblyInfo.cs
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.csproj.CoreCompileInputs.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.MvcApplicationPartsAssemblyInfo.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.RazorAssemblyInfo.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.RazorAssemblyInfo.cs
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.sourcelink.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjimswa.dswa.cache.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/bundle/first-with-aspnet-web.styles.css
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/projectbundle/first-with-aspnet-web.bundle.scp.css
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.json.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.development.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/swae.build.ex.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.dll
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/refint/first-with-aspnet-web.dll
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.pdb
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.genruntimeconfig.cache
+E:/data-program/CNTT/Project Compile/ASP.NET/spring-net-core/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/ref/first-with-aspnet-web.dll
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/appsettings.Development.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/appsettings.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.staticwebassets.runtime.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.staticwebassets.endpoints.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.deps.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.runtimeconfig.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.dll
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/bin/Debug/net8.0/first-with-aspnet-web.pdb
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.GeneratedMSBuildEditorConfig.editorconfig
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.AssemblyInfoInputs.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.AssemblyInfo.cs
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.csproj.CoreCompileInputs.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.MvcApplicationPartsAssemblyInfo.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.RazorAssemblyInfo.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.RazorAssemblyInfo.cs
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.sourcelink.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/bundle/first-with-aspnet-web.styles.css
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/scopedcss/projectbundle/first-with-aspnet-web.bundle.scp.css
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.development.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.dll
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/refint/first-with-aspnet-web.dll
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.pdb
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/first-with-aspnet-web.genruntimeconfig.cache
+/home/spring19/Documents/RiderProjects/ASP.NET/first-with-aspnet-web/first-with-aspnet-web/obj/Debug/net8.0/ref/first-with-aspnet-web.dll
