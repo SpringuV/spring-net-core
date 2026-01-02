@@ -3,10 +3,10 @@ namespace HttpContextExcercise.MySession;
 public class MySessionStorage: IMySessionStorage
 {
     private readonly IMySessionStorageEngine _storageEngine;
-    private readonly Dictionary<string, ISession> sessions = new();
+    private readonly Dictionary<string, ISession> _sessions = new();
     public MySessionStorage(IMySessionStorageEngine storageEngine)
     {
-        _storageEngine = storageEngine;
+        _storageEngine = storageEngine; // store injected storage engine
     }
     public ISession Create()
     {
@@ -22,18 +22,19 @@ public class MySessionStorage: IMySessionStorage
         // hoặc C) tốt hơn: truyền Guid chứ không phải string (nếu MySession hỗ trợ):
         // var newSession = new MySession(Guid.NewGuid(), _storageEngine);
 
+        // Current choice: use the N format (32-char hex without dashes)
         var newSession =  new MySession(Guid.NewGuid().ToString("N"), _storageEngine);
-        sessions[newSession.Id] = newSession;
+        _sessions[newSession.Id] = newSession; // keep in-memory reference for reuse
         return newSession;
     }
 
     public ISession Get(string id)
     {
-        if (sessions.ContainsKey(id))
+        if (_sessions.ContainsKey(id))
         {
-            return sessions[id];
+            return _sessions[id]; // return cached session when present
         }
 
-        return Create();
+        return Create(); // otherwise create a new session
     }
 }

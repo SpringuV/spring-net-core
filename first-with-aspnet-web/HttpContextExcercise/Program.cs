@@ -1,3 +1,6 @@
+// Program.cs
+// Summary: Application entry point - configures DI, session storage, and request pipeline for the sample app.
+
 using HttpContextExcercise;
 using HttpContextExcercise.MySession;
 
@@ -5,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+// Register the file-backed session storage engine as a singleton using an injected IHostEnvironment to
+// determine the ContentRootPath and create a "SessionStorage" directory inside the app root.
 builder.Services.AddSingleton<IMySessionStorageEngine>(services =>
         {
             var path = Path.Combine(services.GetRequiredService<IHostEnvironment>().ContentRootPath, "SessionStorage");
@@ -12,6 +17,7 @@ builder.Services.AddSingleton<IMySessionStorageEngine>(services =>
             return new FileMySessionStorageEngine(path);
         }
     );
+// Register the MySessionStorage which manages in-memory sessions and uses the storage engine
 builder.Services.AddSingleton<IMySessionStorage, MySessionStorage>();
 
 

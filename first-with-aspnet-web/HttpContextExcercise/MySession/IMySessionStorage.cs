@@ -1,9 +1,9 @@
-namespace HttpContextExcercise;
+namespace HttpContextExcercise.MySession;
 
 public interface IMySessionStorage
 {
-    ISession Create();
+    ISession Create(); // Create a new ISession instance with a new id
 
-    ISession Get(string id); // id của session
+    ISession Get(string id); // Retrieve an existing session by id (or create a new one)
 
 }
