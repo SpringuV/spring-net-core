@@ -1,20 +1,20 @@
-﻿static void SelectionSort(int[] array)
+﻿static void BubbleSort(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        for (int j = i + 1; j < array.Length; j++)
+        for (int j = 0; j < array.Length - i - 1; j++)
         {
-            if (array[i] > array[j])
+            if (array[j] > array[j + 1])
             {
-                int tmp = array[i];
-                array[i] = array[j];
-                array[j] = tmp;
+                int tmp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = tmp;
             }
         }
     }
 }
 
-Console.WriteLine("Selection Algorithm Implementation");
+Console.WriteLine("BubbleSort Algorithm Implementation");
 Console.WriteLine("Input Length of Array:");
 int length = int.Parse(Console.ReadLine());
 int[] array = new int[length];
@@ -26,7 +26,5 @@ for (int i = 0; i < length; i++)
 }
 
 Console.WriteLine("Array before sorting:" + string.Join(", ", array));
-
-// sort the array
-SelectionSort(array);
+BubbleSort(array);
 Console.WriteLine("Array after sorting:" + string.Join(", ", array));

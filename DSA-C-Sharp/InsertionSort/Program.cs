@@ -1,20 +1,18 @@
-﻿static void SelectionSort(int[] array)
+﻿static void InsertionSort(int[] array)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 1; i < array.Length; i++)
     {
-        for (int j = i + 1; j < array.Length; j++)
+        int post = i - 1, value = array[i];
+        while (post>= 0 && value < array[post])
         {
-            if (array[i] > array[j])
-            {
-                int tmp = array[i];
-                array[i] = array[j];
-                array[j] = tmp;
-            }
+            array[post + 1] = array[post];
+            --post;
         }
+        array[post + 1] = value;
     }
 }
 
-Console.WriteLine("Selection Algorithm Implementation");
+Console.WriteLine("InsertionSort Algorithm Implementation");
 Console.WriteLine("Input Length of Array:");
 int length = int.Parse(Console.ReadLine());
 int[] array = new int[length];
@@ -26,7 +24,5 @@ for (int i = 0; i < length; i++)
 }
 
 Console.WriteLine("Array before sorting:" + string.Join(", ", array));
-
-// sort the array
-SelectionSort(array);
+InsertionSort(array);
 Console.WriteLine("Array after sorting:" + string.Join(", ", array));
